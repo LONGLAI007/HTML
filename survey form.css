@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Lao';
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.container {
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+    display: flow-root;
+
+}
+
+.container p {
+   
+    font-weight: bold;
+    text-align: center;
+}
+
+.from {
+margin-top: 10%;
+    background-color:#e33e5a;
+    justify-content: center;
+    height: 50%;
+    box-shadow:gold 2PX 4PX ;
+}
+
+.text1 {
+    /* text-align: center; */
+    margin-top: 7px;
+}
+
+.text1 label {
+    margin-left: 40%;
+    position: absolute;
+}
+
+.text1 input {
+    margin-left: 50%;
+}
+
+.text2 {
+    /* text-align: center; */
+    margin-top: 7px;
+}
+
+.text2 label {
+    margin-left: 40%;
+    position: absolute;
+}
+
+.text2 input {
+    margin-left: 50%;
+}
+
+.text3 {
+    /* text-align: center; */
+    margin-top: 7px;
+}
+
+.text3 label {
+    margin-left: 40%;
+    position: absolute;
+}
+
+.text3 input {
+    margin-left: 50%;
+    position: absolute;
+}
+.text4{
+    margin-top: 7px;
+}
+.text4 label {
+  margin-left: 21%;
+}
+
+.text4 select {
+    margin-left: 6%;
+}
+.select2{
+    margin-top: 7px;
+}
+.select2 label {
+    margin-left: 29%;
+    position: absolute;
+  }
+  
+  .select2 select {
+      margin-left: 50%;
+  }
+  .text5{
+    margin-top: 10px;
+  }
+  .text5 label {
+    margin-left: 22%;
+    position: absolute;
+}
+
+.text5 input {
+    margin-left: 50%;
+    position: absolute;
+    margin-top:  7px;
+}
+.text01{
+    margin-left: 32%;
+}
+.text6{
+    margin-top: 10px;
+  }
+  .text6 label {
+    margin-left: 22%;
+    position: absolute;
+}
+
+.text6 input {
+    margin-left: 50%;
+    position: absolute;
+    margin-top:  7px;
+}
+.text02{
+    margin-left: 32%;
+}
+.text7{
+    margin-top: 10px;
+  }
+  .text7 label {
+    margin-left: 22%;
+    position: absolute;
+}
+
+.text7 input {
+    margin-left: 50%;
+    position: absolute;
+    margin-top:  7px;
+}
+.text03{
+    margin-left: 32%;
+}
